@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.53.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-swipy": "^0.0.6"
+  },
+  "name": "keithsproject_swipe_ready",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
